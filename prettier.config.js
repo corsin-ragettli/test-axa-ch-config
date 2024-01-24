@@ -1,3 +1,3 @@
-import { prettier } from '@axa-ch/easy-config/dist/index.js';
+import { prettier } from '@axa-ch/easy-config';
 
 export default prettier.base;
